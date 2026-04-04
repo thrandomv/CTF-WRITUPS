@@ -8,7 +8,7 @@
 ```
 
 ```diff
-+ thrandomv@kali:~/CTF-Writeups$ whoami
++ thrandomv@root:~/CTF-Writeups$ whoami
 ```
 
 ```diff
@@ -18,7 +18,7 @@
 ---
 
 ```diff
-+ thrandomv@kali:~/CTF-Writeups$ cat about.txt
++ thrandomv@root:~/CTF-Writeups$ cat about.txt
 ```
 
 ```diff
@@ -32,5 +32,5 @@
 ---
 
 ```diff
-+ thrandomv@kali:~/CTF-Writeups$ _
++ thrandomv@root:~/CTF-Writeups$ _
 ```

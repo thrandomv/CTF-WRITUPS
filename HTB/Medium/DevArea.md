@@ -240,7 +240,7 @@ cat /home/dev_ryan/user.txt
 ```
 
 ```
-e311a0461fbf54e38f0dc152382eba01
+**11a0461fbf54e38f0dc152382eba**
 ```
 
 ---
@@ -354,7 +354,7 @@ cat /root/root.txt
 ```
 
 ```
-d9e5012d4d06a03dba1053c4da0b0...
+**e5012d4d06a03dba1053c4da0b0f**
 ```
 
 ---
@@ -367,10 +367,10 @@ d9e5012d4d06a03dba1053c4da0b0...
 | 2 | Analysis | JAR decompile (jadx) | SOAP endpoint `/employeeservice` identified |
 | 3 | Initial Exploit | CVE-2022-46364 XOP/MTOM LFI | `/etc/passwd` → user `dev_ryan`; `hoverfly.service` → creds `admin:O7IJ27MyyXiU` |
 | 4 | Foothold | Hoverfly middleware RCE | Reverse shell as `dev_ryan` |
-| 5 | User Flag | — | `e311a0461fbf54e38f0dc152382eba01` |
+| 5 | User Flag | — | `**11a0461fbf54e38f0dc152382eba**` |
 | 6 | PrivEsc | World-writable `/bin/bash` + `sudo syswatch.sh` | SUID set on `python3` |
 | 7 | Root | `python3 setuid(0)` | Root shell |
-| 8 | Root Flag | — | `d9e5012d4d06a03dba1053c4da0b0...` |
+| 8 | Root Flag | — | `**e5012d4d06a03dba1053c4da0b0f**` |
 
 ---
 

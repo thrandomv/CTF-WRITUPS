@@ -167,7 +167,7 @@ ssh wacky@10.129.244.106
 
 ```bash
 wacky@wingdata:~$ cat ~/user.txt
-090ee6365a5010f3372dccb5909ccedf
+**0ee6365a5010f3372dccb5909cce**
 ```
 
 ---
@@ -236,7 +236,7 @@ The exploit:
 [?] Spawn root shell now? (y/n): y
 
 root@wingdata:/home/wacky# cat /root/root.txt
-46e864901cf2e6bd47b6776c1f0f6db3
+**e864901cf2e6bd47b6776c1f0f6d**
 ```
 
 ---
@@ -245,8 +245,8 @@ root@wingdata:/home/wacky# cat /root/root.txt
 
 | Flag | Value |
 |------|-------|
-| User (`wacky`) | `090ee6365a5010f3372dccb5909ccedf` |
-| Root | `46e864901cf2e6bd47b6776c1f0f6db3` |
+| User (`wacky`) | `**0ee6365a5010f3372dccb5909cce**` |
+| Root | `**e864901cf2e6bd47b6776c1f0f6d**` |
 
 ---
 

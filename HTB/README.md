@@ -6,7 +6,8 @@
 + ██╔══██║   ██║   ██╔══██╗
 + ██║  ██║   ██║   ██████╔╝
 + ╚═╝  ╚═╝   ╚═╝   ╚═════╝
- HackTheBox Writeups
+
+  HackTheBox Writeups
 
 ```
 

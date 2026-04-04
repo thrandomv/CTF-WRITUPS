@@ -163,7 +163,7 @@ python3 CVE-2024-46987/CVE-2024-46987.py \
 ```
 
 ```
-e86a4444b3ad4907550ef921dc7a97c9
+**6a4444b3ad4907550ef921dc7a97**
 ```
 
 > **Note:** The `user[username]` field is used for login, not `user[email]`. If the script returns nothing, verify with `-v` flag and ensure the correct field name.
@@ -339,8 +339,8 @@ cat /root/root.txt
 
 | Flag | Hash |
 |------|------|
-| User (`/home/william/user.txt`) | `e86a4444b3ad4907550ef921dc7a97c9` |
-| Root (`/root/root.txt`) | `2bee8133ad0dddb202a90da1bb4a7938` |
+| User (`/home/william/user.txt`) | `**6a4444b3ad4907550ef921dc7a97**` |
+| Root (`/root/root.txt`) | `**ee8133ad0dddb202a90da1bb4a79**` |
 
 ---
 

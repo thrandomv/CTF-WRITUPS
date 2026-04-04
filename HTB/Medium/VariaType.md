@@ -3,8 +3,8 @@
 **Author:** thrandomv  
 **Date:** March 18, 2026  
 **Flags:**  
-- User: `ac8af3ca90643e6373a9bb9f9262258c`  
-- Root: `2e6fd921a2b057aca0b39fafbe9beff7`
+- User: `**8af3ca90643e6373a9bb9f926225**`  
+- Root: `**6fd921a2b057aca0b39fafbe9bef**`
 
 ---
 
@@ -197,7 +197,7 @@ Cron job fires, processes the ZIP, executes the embedded payload — shell recei
 
 ```bash
 cat ~/user.txt
-# ac8af3ca90643e6373a9bb9f9262258c
+# **8af3ca90643e6373a9bb9f926225**
 ```
 
 ---
@@ -273,7 +273,7 @@ ls -la /bin/bash
 ```bash
 /bin/bash -p
 cat /root/root.txt
-# 2e6fd921a2b057aca0b39fafbe9beff7
+# **6fd921a2b057aca0b39fafbe9bef**
 ```
 
 ---

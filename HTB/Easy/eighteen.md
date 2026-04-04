@@ -1,7 +1,7 @@
 # HackTheBox — Eighteen
 **Difficulty:** Easy | **OS:** Windows | **Category:** Active Directory  
-**User flag:** `7e0e455098a159388eae992687fb29ea`  
-**Root flag:** `4f3f7f5ffc0eb6f91fb9d81cc915e395`
+**User flag:** `**0e455098a159388eae992687fb29**`  
+**Root flag:** `**3f7f5ffc0eb6f91fb9d81cc915e3**`
 
 ---
 
@@ -147,7 +147,7 @@ evil-winrm -i 10.129.11.142 -u adam.scott -p 'iloveyou1'
 
 ```powershell
 type C:\Users\adam.scott\Desktop\user.txt
-# 7e0e455098a159388eae992687fb29ea
+# **0e455098a159388eae992687fb29**
 ```
 
 ---
@@ -228,7 +228,7 @@ evil-winrm -i 10.129.11.142 -u Administrator -H 0b133be956bfaddf9cea56701affddec
 
 ```powershell
 type C:\Users\Administrator\Desktop\root.txt
-# 4f3f7f5ffc0eb6f91fb9d81cc915e395
+# **3f7f5ffc0eb6f91fb9d81cc915e3**
 ```
 
 ---

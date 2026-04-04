@@ -165,7 +165,7 @@ ssh sedric@interpreter.htb
 # password: snowflake1
 ```
 
-**User Flag:** `6fe54247b118ae1bfcd36759d4cd58dd`
+**User Flag:** `**e54247b118ae1bfcd36759d4cd58**`
 
 ---
 
@@ -240,7 +240,7 @@ printf "POST /addPatient HTTP/1.1\r\nHost: localhost\r\nContent-Type: applicatio
 
 The server processes the XML → regex passes `{}` as allowed → `eval()` executes the injected expression as root → flag returned in the HTTP response body.
 
-**Root Flag:** `cf9ad2d666a8c9232ea6e08c3468bd91`
+**Root Flag:** `**9ad2d666a8c9232ea6e08c3468bd**`
 
 ---
 

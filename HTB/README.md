@@ -8,5 +8,5 @@
 + ╚═╝  ╚═╝   ╚═╝   ╚═════╝
  HackTheBox Writeups
 
-```diff
+```
 

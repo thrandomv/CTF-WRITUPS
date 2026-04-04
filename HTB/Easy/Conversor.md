@@ -189,7 +189,7 @@ ssh fismathack@10.129.238.31
 # Password: Keepmesafeandwarm
 
 cat ~/user.txt
-# 90ba1a824bc194c662a99136202642dc
+# **ba1a824bc194c662a99136202642**
 ```
 
 ---
@@ -251,7 +251,7 @@ ls -la /var/tmp/rootbash
 /var/tmp/rootbash -p
 whoami   # root
 cat /root/root.txt
-# dde5aa8a3dc38c59f9a6447e1b0f26cb
+# **e5aa8a3dc38c59f9a6447e1b0f26**
 ```
 
 **Note on `/tmp` vs `/var/tmp`:** `/tmp` is mounted `noexec` on this machine. Always try `/var/tmp` when SUID binaries fail to execute from `/tmp`.

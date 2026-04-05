@@ -1,0 +1,17 @@
+# Startup
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/startup](https://tryhackme.com/room/startup)
+
+---
+
+**What is the secret spicy soup recipe?**  
+`love`
+
+**What are the contents of user.txt?**  
+`THM{03ce3d619b80ccbfb3b7fc81e46c0e79}`
+
+**What are the contents of root.txt?**  
+`THM{f963aaa6a430f210222158ae15c3d76d}`
+

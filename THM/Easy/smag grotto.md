@@ -1,0 +1,14 @@
+# Smag Grotto
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/smaggrotto](https://tryhackme.com/room/smaggrotto)
+
+---
+
+**What is the user flag?**  
+`iusGorV7EbmxM5AuIe2w499msaSuqU3j`
+
+**What is the root flag?**  
+`uJr6zRgetaniyHVRqqL58uRasybBKz2T`
+

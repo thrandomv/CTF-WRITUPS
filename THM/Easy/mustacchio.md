@@ -1,0 +1,14 @@
+# Mustacchio
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/mustacchio](https://tryhackme.com/room/mustacchio)
+
+---
+
+**What is the user flag?**  
+`62d77a4d5f97d47c5aa38b3b2651b831`
+
+**What is the root flag?**  
+`3223581420d906c4dd1a5f9b530393a5`
+

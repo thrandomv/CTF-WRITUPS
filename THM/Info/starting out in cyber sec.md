@@ -1,0 +1,14 @@
+# Starting Out In Cyber Sec
+
+**Platform:** TryHackMe  
+**Difficulty:** Informational  
+**Room:** [https://tryhackme.com/room/startingoutincybersec](https://tryhackme.com/room/startingoutincybersec)
+
+---
+
+**What is the name of the career role that is legally employed to find vulnerabilities in applications?**  
+`penetration tester`
+
+**What is the name of the role who's job is to identify attacks against an organisation?**  
+`security analyst`
+

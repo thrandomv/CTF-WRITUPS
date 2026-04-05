@@ -1,0 +1,11 @@
+# Tutorial
+
+**Platform:** TryHackMe  
+**Difficulty:** Informational  
+**Room:** [https://tryhackme.com/room/tutorial](https://tryhackme.com/room/tutorial)
+
+---
+
+**Follow the steps in this task. What is the flag text shown on the website of the machine you started on this task?**  
+`flag{connection_verified}`
+

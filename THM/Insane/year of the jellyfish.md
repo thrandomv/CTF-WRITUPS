@@ -1,0 +1,14 @@
+# Year of the Jellyfish
+
+**Platform:** TryHackMe  
+**Difficulty:** Insane  
+**Room:** [https://tryhackme.com/room/yearofthejellyfish](https://tryhackme.com/room/yearofthejellyfish)
+
+---
+
+**Flag 1**  
+`THM{MjBkOTMyZDgzNGZmOGI0Y2I5NTljNGNl}`
+
+**Root Flag**  
+`THM{YjMyZTkwYzZhM2U5MGEzZDU2MDc1NTMx}`
+

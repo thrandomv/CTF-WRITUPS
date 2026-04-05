@@ -1,0 +1,11 @@
+# The Game v2
+
+**Platform:** TryHackMe  
+**Difficulty:** Insane  
+**Room:** [https://tryhackme.com/room/hfb1thegamev2](https://tryhackme.com/room/hfb1thegamev2)
+
+---
+
+**What is the flag?**  
+`THM{MEMORY_CAN_CHANGE_4R34L$-$}`
+

@@ -1,0 +1,11 @@
+# Git Happens
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/githappens](https://tryhackme.com/room/githappens)
+
+---
+
+**Find the Super Secret Password**  
+`Th1s_1s_4_L0ng_4nd_S3cur3_P4ssw0rd!`
+

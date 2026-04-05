@@ -1,0 +1,14 @@
+# Fowsniff CTF
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/ctf](https://tryhackme.com/room/ctf)
+
+---
+
+**What was seina's password to the email service?**  
+`scoobydoo2`
+
+**Looking through her emails, what was a temporary password set for her?**  
+`S1ck3nBluff+secureshell`
+

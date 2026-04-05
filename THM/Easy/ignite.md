@@ -1,0 +1,14 @@
+# Ignite
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/ignite](https://tryhackme.com/room/ignite)
+
+---
+
+**User.txt**  
+`6470e394cbf6dab6a91682cc8585059b`
+
+**Root.txt**  
+`b9bbcb33e11b80be759c4e844862482d`
+

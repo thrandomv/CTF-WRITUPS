@@ -1,0 +1,14 @@
+# Brooklyn Nine Nine
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/brooklynninenine](https://tryhackme.com/room/brooklynninenine)
+
+---
+
+**User flag**  
+`ee11cbb19052e40b07aac0ca060c23ee`
+
+**Root flag**  
+`63a9f0ea7bb98050796b649e85481845`
+

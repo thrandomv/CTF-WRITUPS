@@ -1,0 +1,14 @@
+# Baron Samedit
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/sudovulnssamedit](https://tryhackme.com/room/sudovulnssamedit)
+
+---
+
+**After compiling the exploit, what is the name of the executable created (blurred in the screenshots above)?**  
+`sudo-hax-me-a-sandwich`
+
+**You should now have a root shell -- what is the flag in /root/flag.txt?**  
+`THM{NmU4OWYwMWJmMjkxMDdiYTU4MWIxNWVk}`
+

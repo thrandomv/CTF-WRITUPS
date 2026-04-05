@@ -1,0 +1,11 @@
+# Agent T
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/agentt](https://tryhackme.com/room/agentt)
+
+---
+
+**What is the flag?**  
+`flag{4127d0530abf16d6d23973e3df8dbecb}`
+

@@ -1,0 +1,20 @@
+# Chocolate Factory
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/chocolatefactory](https://tryhackme.com/room/chocolatefactory)
+
+---
+
+**Enter the key you found!**  
+`b'-VkgXhFf6sAEcAwrC6YR-SZbiuSb8ABXeQuvhcGSQzY='`
+
+**What is Charlie's password?**  
+`cn7824`
+
+**Enter the user flag**  
+`flag{cd5509042371b34e4826e4838b522d2e}`
+
+**Enter the root flag**  
+`flag{cec59161d338fef787fcb4e296b42124}`
+

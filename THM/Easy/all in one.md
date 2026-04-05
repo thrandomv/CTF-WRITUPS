@@ -1,0 +1,14 @@
+# All in One
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/allinonemj](https://tryhackme.com/room/allinonemj)
+
+---
+
+**user.txt**  
+`THM{49jg666alb5e76shrusn49jg666alb5e76shrusn}`
+
+**root.txt**  
+`THM{uem2wigbuem2wigb68sn2j1ospi868sn2j1ospi8}`
+

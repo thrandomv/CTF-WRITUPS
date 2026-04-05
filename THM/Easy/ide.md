@@ -1,0 +1,14 @@
+# IDE
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/ide](https://tryhackme.com/room/ide)
+
+---
+
+**user.txt**  
+`02930d21a8eb009f6d26361b2d24a466`
+
+**root.txt**  
+`ce258cb16f47f1c66f0b0b77f4e0fb8d`
+

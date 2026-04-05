@@ -1,0 +1,14 @@
+# Cat Pictures
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/catpictures](https://tryhackme.com/room/catpictures)
+
+---
+
+**Flag 1**  
+`7cf90a0e7c5d25f1a827d3efe6fe4d0edd63cca9`
+
+**Root Flag**  
+`4a98e43d78bab283938a06f38d2ca3a3c53f0476`
+

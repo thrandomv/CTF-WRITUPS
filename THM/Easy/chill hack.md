@@ -1,0 +1,14 @@
+# Chill Hack
+
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Room:** [https://tryhackme.com/room/chillhack](https://tryhackme.com/room/chillhack)
+
+---
+
+**User Flag**  
+`{USER-FLAG: e8vpd3323cfvlp0qpxxx9qtr5iq37oww}`
+
+**Root Flag**  
+`{ROOT-FLAG: w18gfpn9xehsgd3tovhk0hby4gdp89bg}`
+

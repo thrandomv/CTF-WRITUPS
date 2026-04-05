@@ -1,0 +1,26 @@
+# Intro to Endpoint Security
+
+**Platform:** TryHackMe  
+**Difficulty:** Informational  
+**Room:** [https://tryhackme.com/room/introtoendpointsecurity](https://tryhackme.com/room/introtoendpointsecurity)
+
+---
+
+**What is the normal parent process of services.exe?**  
+`wininit.exe`
+
+**What is the name of the network utility tool introduced in this task?**  
+`TCPView`
+
+**Where do the Windows Event logs (.evtx files) typically reside?**  
+`C:\Windows\System32\winevt\Logs`
+
+**Provide the command used to enter OSQuery CLI.**  
+`osqueryi`
+
+**What does EDR mean? Provide the answer in lowercase.**  
+`endpoint detection and Response`
+
+**Provide the flag for the simulated investigation activity.**  
+`THM{3ndp01nt_s3cur1ty!}`
+

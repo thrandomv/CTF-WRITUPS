@@ -1,0 +1,23 @@
+# Network Security
+
+**Platform:** TryHackMe  
+**Difficulty:** Informational  
+**Room:** [https://tryhackme.com/room/intronetworksecurity](https://tryhackme.com/room/intronetworksecurity)
+
+---
+
+**What type of firewall is Windows Defender Firewall?**  
+`Host Firewall`
+
+**During which step of the Cyber Kill Chain does the attacker gather information about the target?**  
+`Recon`
+
+**What is the password in the secret.txt file?**  
+`ABC789xyz123`
+
+**What is the content of the flag.txt in the /root directory?**  
+`THM{FTP_SERVER_OWNED}`
+
+**What is the content of the flag.txt in the /home/librarian directory?**  
+`THM{LIBRARIAN_ACCOUNT_COMPROMISED}`
+

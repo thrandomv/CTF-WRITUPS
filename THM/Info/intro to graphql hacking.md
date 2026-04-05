@@ -1,0 +1,17 @@
+# Intro to GraphQL Hacking
+
+**Platform:** TryHackMe  
+**Difficulty:** Informational  
+**Room:** [https://tryhackme.com/room/introtographqlhacking](https://tryhackme.com/room/introtographqlhacking)
+
+---
+
+**There are two queries after the introspection, namely User, and XXXX. What is the missing query?**  
+`Post`
+
+**Challenge! Since you're able to disclose the column names, what is the email of the user named bob?**  
+`bob@graphql.thm`
+
+**What is the flag?**  
+`GRAPHQL{sQl_1Nj3cti0n}`
+

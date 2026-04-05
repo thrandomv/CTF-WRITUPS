@@ -1,0 +1,17 @@
+# Year of the Pig
+
+**Platform:** TryHackMe  
+**Difficulty:** Hard  
+**Room:** [https://tryhackme.com/room/yearofthepig](https://tryhackme.com/room/yearofthepig)
+
+---
+
+**Flag 1**  
+`THM{MDg0MGVjYzFjY2ZkZGMzMWY1NGZiNjhl}`
+
+**Flag 2**  
+`THM{Y2Q2N2M1NzNmYTQzYTI4ODliYzkzMmZh}`
+
+**Root Flag**  
+`THM{MjcxNmVmYjNhYzdkZDc0M2RkNTZhNDA0}`
+

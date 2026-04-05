@@ -1,0 +1,14 @@
+# Internal
+
+**Platform:** TryHackMe  
+**Difficulty:** Hard  
+**Room:** [https://tryhackme.com/room/internal](https://tryhackme.com/room/internal)
+
+---
+
+**User.txt Flag**  
+`THM{int3rna1_fl4g_1}`
+
+**Root.txt Flag**  
+`THM{d0ck3r_d3str0y3r}`
+

@@ -1,0 +1,17 @@
+# VulnNet: Endgame
+
+**Platform:** TryHackMe  
+**Difficulty:** Hard  
+**Room:** [https://tryhackme.com/room/vulnnetendgame](https://tryhackme.com/room/vulnnetendgame)
+
+---
+
+**What is the password of the CMS administrator?**  
+`vAxWtmNzeTz`
+
+**What is the user flag?**  
+`THM{fb84e79072015186c72ec77ded49a5ff}`
+
+**What is the root flag?**  
+`THM{1d42edbb03c0b287a8d0d8a265dce012}`
+

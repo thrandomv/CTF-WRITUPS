@@ -1,0 +1,17 @@
+# Shaker
+
+**Platform:** TryHackMe  
+**Difficulty:** Hard  
+**Room:** [https://tryhackme.com/room/shaker](https://tryhackme.com/room/shaker)
+
+---
+
+**Get a shell and find the first flag!**  
+`THM{OGZlMzhlMTQyYWMyZTExMjQyNDM2NmIyNTM4NDM3NTI=}`
+
+**Can you find Bob's flag?**  
+`THM{NTA2NTJiYTNmYWQ3NGViMzEyMDIyM2EwODY2MzM1YWQ=}`
+
+**Now that you're here, go on, root me :)**  
+`THM{NzFkZGRjNmRkZWQzNWMxZTM3MjM0ZGFlMmVkZDk3MTc=}`
+

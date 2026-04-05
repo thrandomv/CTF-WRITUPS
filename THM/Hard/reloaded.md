@@ -1,0 +1,26 @@
+# REloaded
+
+**Platform:** TryHackMe  
+**Difficulty:** Hard  
+**Room:** [https://tryhackme.com/room/reloaded](https://tryhackme.com/room/reloaded)
+
+---
+
+**Flag ?**  
+`L3v3lZ340_is_D02e`
+
+**Flag ?**  
+`1709`
+
+**Flag ?**  
+`L3_1s_20t_Th3_L131t`
+
+**Which instruction did you modified?**  
+`jnz`
+
+**Flag ?**  
+`THMctf-L4`
+
+**Flag?**  
+`Alan Turing Was a Geniuse`
+

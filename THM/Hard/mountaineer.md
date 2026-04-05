@@ -1,0 +1,14 @@
+# Mountaineer
+
+**Platform:** TryHackMe  
+**Difficulty:** Hard  
+**Room:** [https://tryhackme.com/room/mountaineerlinux](https://tryhackme.com/room/mountaineerlinux)
+
+---
+
+**What is the local.txt flag?**  
+`97a805eb710deb97342a48092876df22`
+
+**What is the root.txt flag?**  
+`a41824310a621855d9ed507f29eed757`
+

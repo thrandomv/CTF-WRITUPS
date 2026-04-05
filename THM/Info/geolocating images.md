@@ -1,0 +1,20 @@
+# Geolocating Images
+
+**Platform:** TryHackMe  
+**Difficulty:** Informational  
+**Room:** [https://tryhackme.com/room/geolocatingimages](https://tryhackme.com/room/geolocatingimages)
+
+---
+
+**Where in the world is image 1? The answer is the country name.**  
+`China`
+
+**Where was image 2 taken?**  
+`Wrigleyville Sports`
+
+**Where was image 3 taken?**  
+`Meudon Observatory`
+
+**Where is image 4 taken?**  
+`Abbey Road`
+

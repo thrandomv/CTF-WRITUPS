@@ -1,10 +1,9 @@
-# TryHackMe — The Silent Transfer (Capstone) — Investigation Write-up
+# The Silent Transfer (Capstone) — Investigation Write-up
 
 **Room:** `silenttransfer-capstone-v2.0`
 **Scenario:** THM Security Services (TSS) — Threat Hunt engagement for Helios Software Group
 **Classification:** Confirmed Cobalt Strike intrusion — C2, internal discovery, lateral movement, data exfiltration
 
-> **Spoiler-safe:** methodology, commands, and reasoning are shown in full. The 10 literal room answers are collapsed under `Reveal answer` — try solving them yourself before expanding.
 
 ---
 
